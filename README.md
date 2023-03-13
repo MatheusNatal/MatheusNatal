@@ -1,7 +1,7 @@
 <h3> Seja bem vindo(a) ao meu perfil GitHub! 🥇   </h3>
 <h4></h4> 
  
-<h6> 💫 #desenvolvimentoweb, #computação, #automação, e #tecnologia </h6>
+<h6> 💫 #desenvolvimentoweb, #computação, #automação, #tecnologia e #webscraping </h6>
   
 ##
 
